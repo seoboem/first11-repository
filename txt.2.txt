@@ -1,4 +1,4 @@
-abcdefghijk
+abcdefghijk (ABCDEFGHIJK)
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
         return nums
     if l < r:
